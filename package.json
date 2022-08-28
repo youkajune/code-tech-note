@@ -1,0 +1,24 @@
+{
+  "name": "vuepress_note",
+  "version": "1.0.0",
+  "description": "编程学习笔记",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/youkajune/code-tech-note.git"
+  },
+  "author": "柚咖",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/youkajune/code-tech-note/issues"
+  },
+  "homepage": "https://github.com/youkajune/code-tech-note#readme",
+  "devDependencies": {
+    "vuepress": "^1.9.7"
+  }
+}

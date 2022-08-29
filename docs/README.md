@@ -3,6 +3,14 @@
 home: true
 # 封面图片
 heroImage: /秋怡5.png
+# 封面图片设置
+heroImageStyle: {
+  maxWidth: '600px',
+  width: '100%',
+  display: block,
+  margin: '9rem auto 2rem',
+  borderRadius: '1rem',
+}
 # 标题
 heroText: 柚咖
 # 副标题

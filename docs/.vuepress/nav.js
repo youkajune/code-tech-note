@@ -5,27 +5,27 @@ module.exports = [
             {
                 text: "C", 
                 items: [
-                    {text: "基础", link: "/C/README"}
+                    {text: "基础", link: "/C/base/"}
                 ]
             },
             {
                 text: "C++", 
                 items: [
-                    {text: "基础", link: "/C++/README"}
+                    {text: "基础", link: "/C++/base/"}
                 ]
             },
             {
                 text: "Java", 
                 items: [
-                    {text: "JavaSE", link: "/Java/README"},
-                    {text: "JavaEE", link: "/Java/README"},
-                    {text: "JavaSpring", link: "/Java/README"}
+                    {text: "JavaSE", link: "/Java/JavaSE/"},
+                    {text: "JavaEE", link: "/Java/JavaEE/"},
+                    {text: "JavaSpring", link: "/Java/Spring/"}
                 ]
             },
             {
                 text: "Python", 
                 items: [
-                    {text: "基础", link: "/Python/README"}
+                    {text: "基础", link: "/Python/base/"}
                 ]
             }
         ]
@@ -38,7 +38,7 @@ module.exports = [
                 items: [
                     {text: "数据结构基础", link: "/algorithms/README"},
                     {text: "常见排序算法", link: "/algorithms/README"},
-                    {text: "刷题笔记", link: "/algorithms/README"}
+                    {text: "算法刷题笔记", link: "/algorithms/README"}
                 ]
             },
             {

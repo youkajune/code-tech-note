@@ -1,16 +1,29 @@
 ---
 # 启用封面
 home: true
-# 封面图片
-heroImage: /秋怡5.png
-# 封面图片设置
+# # 封面图片
+# heroImage: /秋怡5.png
+# # 封面图片设置
+# heroImageStyle: {
+#   maxWidth: '800px',
+#   width: '100%',
+#   display: block,
+#   margin: '9rem auto 2rem',
+#   borderRadius: '1rem',
+# }
 heroImageStyle: {
   maxWidth: '600px',
   width: '100%',
   display: block,
   margin: '9rem auto 2rem',
+  background: '#fff',
   borderRadius: '1rem',
 }
+bgImage: 张子枫1.jpg
+bgImageStyle: {
+  height: '900px'
+}
+
 # 标题
 heroText: 柚咖
 # 副标题
@@ -30,3 +43,11 @@ features:
   details: 未完待续.
 footer: MIT Licensed | Copyright © 2018-present YouKa
 ---
+<!-- 背景图 -->
+<!-- <style>
+body {
+  background-image: url("/bgimg.jpg");
+  background-size: 100%;
+  background-attachment: fixed;
+}
+</style> -->

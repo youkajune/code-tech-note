@@ -1,6 +1,7 @@
 module.exports = [ 
     {
         text: "编程语言",
+        // icon: "reco-api",
         items: [
             {
                 text: "C", 
@@ -102,6 +103,7 @@ module.exports = [
     },
     {
         text: "工具",
+        // icon: "fa-wrench-simple",
         items: [
             {text: "Git"},
             {text: "IDEA"}
